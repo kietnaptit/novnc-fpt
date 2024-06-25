@@ -193,3 +193,25 @@ html {
         margin-left: 5px;
     }
 }
+.dialog-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.dialog-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#closeDialogButton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 1;
+}
+
