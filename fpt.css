@@ -206,12 +206,3 @@ html {
     font-size: 18px;
     font-weight: bold;
 }
-
-#closeDialogButton {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 18px;
-    line-height: 1;
-}
-
